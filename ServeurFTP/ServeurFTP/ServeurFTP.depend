@@ -1,0 +1,120 @@
+# depslib dependency file v1.0
+1419115309 source:/home/nuj/Desktop/Projet C/ServeurFTP/ServeurFTP/serveurTCP.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<netdb.h>
+
+1421508032 source:/home/kohe/projet/Projet C/ServeurFTP/ServeurFTP/serveurTCP.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<netdb.h>
+
+1422146160 source:/home/kohe/Projet C/ServeurFTP/ServeurFTP/serveurTCP.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<netdb.h>
+	"fonction.h"
+
+1422142460 /home/kohe/Projet C/ServeurFTP/ServeurFTP/fonction.h
+
+1422152153 source:/home/kohe/Projet C/ServeurFTP/ServeurFTP/fonction.c
+	<netinet/in.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<unistd.h>
+
+1422152153 source:/home/kohe/Projet_C/ServeurFTP/ServeurFTP/fonction.c
+	<netinet/in.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<unistd.h>
+
+1422911525 source:/home/kohe/Projet_C/ServeurFTP/ServeurFTP/serveurTCP.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<signal.h>
+	"fonctionReseau.h"
+	"outils.h"
+	"socketServeur.h"
+
+1422142460 /home/kohe/Projet_C/ServeurFTP/ServeurFTP/fonction.h
+
+1422912238 source:/home/kohe/Projet_C/ServeurFTP/ServeurFTP/fonctionReseau.c
+	<netinet/in.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<unistd.h>
+	<fcntl.h>
+	"outils.h"
+	"socketServeur.h"
+	"fonctionReseau.h"
+
+1422831137 source:/home/kohe/Projet_C/ServeurFTP/ServeurFTP/outils.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<signal.h>
+	"fonctionReseau.h"
+	"outils.h"
+
+1422912126 /home/kohe/Projet_C/ServeurFTP/ServeurFTP/fonctionReseau.h
+
+1422911930 /home/kohe/Projet_C/ServeurFTP/ServeurFTP/outils.h
+
+1422912133 /home/kohe/Projet_C/ServeurFTP/ServeurFTP/socketServeur.h
+
+1422912174 source:/home/kohe/Projet_C/ServeurFTP/ServeurFTP/socketServeur.c
+	<netinet/in.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<unistd.h>
+	<fcntl.h>
+	"outils.h"
+	"socketServeur.h"
+	"fonctionReseau.h"
+

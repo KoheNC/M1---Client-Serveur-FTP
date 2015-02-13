@@ -1,0 +1,11 @@
+- Il faudrait pouvoir gérer les noms de domaine pour le serveur ou lieu de seulement l'IP
+
+- L'argument donné pour une instruction FTP ne PEUT PAS CONTENIR d'ESPACE.
+    Ca ne pose pas de problème sauf si l'argument est un chemin absolu qui contient un espace.
+    --> Faire en sorte qu'un chemin absolu puisse contenir un espace, tout en laissant la fonction lireParametre() faire correctement son taff.
+    --> Côté client, ça créé un argument qui s'arrête au 1er espace rencontré
+
+- Avec Netcat (nc), on obtient des erreurs de segmentation sur le serveur. Il faut noter que le serveur s'attend à recevoir une chaîne de
+    caractères se terminant par CRLF. Netcat n'inclut pas cette chaîne à la fin. Origine du plantage ?
+
+- Faire une énumération au lieu de faire des #define NOM 1 partout ?!

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="clientTCP.c" open="1" top="0" tabpos="1">
+		<Cursor position="2875" topLine="54" />
+	</File>
+	<File name="fonctionClient.c" open="1" top="1" tabpos="2">
+		<Cursor position="8180" topLine="283" />
+	</File>
+	<File name="fonctionClient.h" open="1" top="0" tabpos="4">
+		<Cursor position="417" topLine="0" />
+	</File>
+	<File name="reseauClient.c" open="1" top="0" tabpos="3">
+		<Cursor position="4553" topLine="130" />
+	</File>
+	<File name="reseauClient.h" open="1" top="0" tabpos="5">
+		<Cursor position="1762" topLine="15" />
+	</File>
+</CodeBlocks_layout_file>
